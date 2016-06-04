@@ -70,79 +70,37 @@ All variables are the mean of a measurement for each subject and activity.
        timeBodyGyroJerkMag_stdev   
 
 ### Variables representing the mean of frequency domain measurements (summarized by the mean by activity and subject):
+* body acceleration mean/std along X, Y, and Z axis:
+       freqBodyAcc_mean-X     
+       freqBodyAcc_mean-Y     
+       freqBodyAcc_mean-Z     
+       freqBodyAcc_stdev-X     
+       freqBodyAcc_stdev-Y     
+       freqBodyAcc_stdev-Z  
+* body acceleration jerk mean/std along X, Y, and Z axis:
+       freqBodyAccJerk_mean-X     
+       freqBodyAccJerk_mean-Y     
+       freqBodyAccJerk_mean-Z     
+       freqBodyAccJerk_stdev-X     
+       freqBodyAccJerk_stdev-Y     
+       freqBodyAccJerk_stdev-Z     
+* gyroscope mean/standard deviation along X, Y, and Z:
+       freqBodyGyro_mean-X     
+       freqBodyGyro_mean-Y     
+       freqBodyGyro_mean-Z     
+       freqBodyGyro_stdev-X     
+       freqBodyGyro_stdev-Y     
+       freqBodyGyro_stdev-Z     
+* body acceleration magnitude mean/standard deviation:
+       freqBodyAccMag_mean     
+       freqBodyAccMag_stdev   
+* body acceleration jerk magnitude mean/standard deviation:
+       freqbodyAccJerkMag_mean     
+       freqbodyAccJerkMag_stdev 
+* gyroscope jerk magnitude mean/standard deviation:
+       freqbodyGyroMag_mean     
+       freqbodyGyroMag_stdev   
+* gyroscope jerk magnitude mean/standard deviation:
+       freqbodyGyroJerkMag_mean     
+       freqbodyGyroJerkMag_stdev  
 
-freqBodyAcc_mean-X     
-freqBodyAcc_mean-Y     
-freqBodyAcc_mean-Z     
-freqBodyAcc_stdev-X     
-freqBodyAcc_stdev-Y     
-freqBodyAcc_stdev-Z  
-
-freqBodyAccJerk_mean-X     
-freqBodyAccJerk_mean-Y     
-freqBodyAccJerk_mean-Z     
-freqBodyAccJerk_stdev-X     
-freqBodyAccJerk_stdev-Y     
-freqBodyAccJerk_stdev-Z     
-
-freqBodyGyro_mean-X     
-freqBodyGyro_mean-Y     
-freqBodyGyro_mean-Z     
-freqBodyGyro_stdev-X     
-freqBodyGyro_stdev-Y     
-freqBodyGyro_stdev-Z     
-
-freqBodyAccMag_mean     
-freqBodyAccMag_stdev   
-
-freqbodyAccJerkMag_mean     
-freqbodyAccJerkMag_stdev 
-
-freqbodyGyroMag_mean     
-freqbodyGyroMag_stdev   
-
-freqbodyGyroJerkMag_mean     
-freqbodyGyroJerkMag_stdev  
-
- 
-
-Frequency domain body acceleration mean along X, Y, and Z:
-MeanFrequencyBodyAccMeanX
-MeanFrequencyBodyAccMeanY
-MeanFrequencyBodyAccMeanZ
-Frequency domain body acceleration standard deviation along X, Y, and Z:
-MeanFrequencyBodyAccStdDevX
-MeanFrequencyBodyAccStdDevY
-MeanFrequencyBodyAccStdDevZ
-Frequency domain body jerk mean along X, Y, and Z:
-MeanFrequencyBodyAccJerkMeanX
-MeanFrequencyBodyAccJerkMeanY
-MeanFrequencyBodyAccJerkMeanZ
-Frequency domain body jerk standard deviation along X, Y, and Z:
-MeanFrequencyBodyAccJerkStdDevX
-MeanFrequencyBodyAccJerkStdDevY
-MeanFrequencyBodyAccJerkStdDevZ
-Frequency domain gyroscope mean along X, Y, and Z:
-MeanFrequencyBodyGyroMeanX
-MeanFrequencyBodyGyroMeanY
-MeanFrequencyBodyGyroMeanZ
-Frequency domain gyroscope standard deviation along X, Y, and Z:
-MeanFrequencyBodyGyroStdDevX
-MeanFrequencyBodyGyroStdDevY
-MeanFrequencyBodyGyroStdDevZ
-Frequency domain body acceleration magnitude mean:
-MeanFrequencyBodyAccMagMean
-Frequency domain body acceleration magnitude standard deviation:
-MeanFrequencyBodyAccMagStdDev
-Frequency domain body jerk magnitude mean:
-MeanFrequencyBodyAccJerkMagMean
-Frequency domain body jerk magnitude standard deviation:
-MeanFrequencyBodyAccJerkMagStdDev
-Frequency domain gyroscope magnitude mean:
-MeanFrequencyBodyGyroMagMean
-Frequency domain gyroscope magnitude standard deviation:
-MeanFrequencyBodyGyroMagStdDev
-Frequency domain gyroscope jerk magnitude mean:
-MeanFrequencyBodyGyroJerkMagMean
-Frequency domain gyroscope jerk magnitude standard deviation:
-MeanFrequencyBodyGyroJerkMagStdDev
