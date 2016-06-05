@@ -15,10 +15,10 @@ measurements were taken for each of the following activities
 * Standing
 * Laying
 
-# Measurement Variables
+### Measurement Variables
 All variables are the mean of a measurement for each subject and activity.
 
-### Variables representing the mean of time domain measurements (summarized by the mean by activity and subject):
+##### Variables representing the mean of time domain measurements (summarized by the mean by activity and subject):
 * body acceleration mean/std along X, Y, and Z axis:
        timeBodyAcc_mean-X     
        timeBodyAcc_mean-Y     
@@ -69,7 +69,7 @@ All variables are the mean of a measurement for each subject and activity.
        timeBodyGyroJerkMag_mean     
        timeBodyGyroJerkMag_stdev   
 
-### Variables representing the mean of frequency domain measurements (summarized by the mean by activity and subject):
+##### Variables representing the mean of frequency domain measurements (summarized by the mean by activity and subject):
 * body acceleration mean/std along X, Y, and Z axis:
        freqBodyAcc_mean-X     
        freqBodyAcc_mean-Y     
