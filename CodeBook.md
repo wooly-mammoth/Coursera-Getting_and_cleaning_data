@@ -1,12 +1,12 @@
 
 
-# Variables used:
-The variables in the dataset are the following:
+# Codebook
+the Variables used in the final tidy dataset are the following:
 
 ### Subject:
-Subject: the integer ID which identifies the users that participated in the experiment.
+Subject: the user ID which identifies the users that participated in the experiment. each id corerponds to each of the 30 users.
 
-### Activity: the string activity name:
+### Activity: measurements were taken for each activity
 * Walking
 * Walking Upstairs
 * Walking Downstairs
