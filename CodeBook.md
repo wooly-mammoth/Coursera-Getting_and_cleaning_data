@@ -1,7 +1,7 @@
 
 
 # Codebook
-the Output file the final tidy dataset consists of the following fields:
+the output file the final tidy dataset consists of the following fields:
 
 ### Subject
 the user ID which identifies the users that participated in the experiment. each id corerponds to each of the 30 users.
