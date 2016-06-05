@@ -1,12 +1,13 @@
 
 
 # Codebook
-the Variables used in the final tidy dataset are the following:
+the Output file the final tidy dataset consists of the following fields:
 
-### Subject:
-Subject: the user ID which identifies the users that participated in the experiment. each id corerponds to each of the 30 users.
+### Subject
+the user ID which identifies the users that participated in the experiment. each id corerponds to each of the 30 users.
 
-### Activity: measurements were taken for each activity
+### Activity
+measurements were taken for each activity
 * Walking
 * Walking Upstairs
 * Walking Downstairs
@@ -14,7 +15,7 @@ Subject: the user ID which identifies the users that participated in the experim
 * Standing
 * Laying
 
-# Output:
+# Measurement Variables
 All variables are the mean of a measurement for each subject and activity.
 
 ### Variables representing the mean of time domain measurements (summarized by the mean by activity and subject):
