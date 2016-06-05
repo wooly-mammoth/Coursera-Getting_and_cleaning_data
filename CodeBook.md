@@ -7,7 +7,7 @@ the Output file the final tidy dataset consists of the following fields:
 the user ID which identifies the users that participated in the experiment. each id corerponds to each of the 30 users.
 
 ### Activity
-measurements were taken for each activity
+measurements were taken for each of the following activities
 * Walking
 * Walking Upstairs
 * Walking Downstairs
